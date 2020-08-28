@@ -16,7 +16,14 @@ https://www.youtube.com/watch?v=O8yye2AHCOk&t=652s
 
 You can use the prepared data i uploaded in this Repository in the same folder as the Code. There you also find the test.csv and evaluation_ds.csv data that was extraced from the original dataset to make predictions. You could also  look up wine ingredients on the internet and see if you find a new wine with the data features need and then use this wine to feed it in the model. :D 
 
-```python
+Under the following url you can find the original data source: 
+
+```data 
+https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+```
+## Beginner friendly Machine Leraning projects 
+```source 
+https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 ```
 ## TensorFlow Code
 I have uploaded two basically equal models, one is for predicting wine-Type (red- or white-wine) and the other code is for predicting the wine-quality. 
