@@ -26,7 +26,7 @@ https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 ```
 ## TensorFlow Code
-I have uploaded two basically equal models, one is for predicting wine-Type (red- or white-wine) and the other code is for predicting the wine-quality. 
+I have uploaded two basically equal models, one is for predicting wine-Type (red- or white-wine) and the other code is for predicting the wine-quality. Both codes that i uploaded end with '.ipynb'. You can open these Codes in Jupyter or Google Colab to run it with the belonging data. 
 
 ## If you have Question 
 If you have any question rgarding this project you can ask in the comments. I am alsways open to help. :) 
