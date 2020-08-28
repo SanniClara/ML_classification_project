@@ -30,7 +30,10 @@ I have uploaded two basically equal models, one is for predicting wine-Type (red
 
 ## If you have Question 
 If you have any question rgarding this project you can ask in the comments. I am alsways open to help. :) 
-
+I also uploaded a more detailed desription of the project in the folder. Filename: final_project.pdf 
+ ```detailed description
+ final_project.pdf
+ ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
 
