@@ -4,20 +4,19 @@ A guideline on how to predict with Machine Learning using TensorFlow and Keras. 
 
 ## Set Up
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+If your goal is to apply a classification/pattern recognition to your data, this is the place to look for :) What you need to run TensorFlow code in Python is either a cloud or a local environment that has access to a CPU. If you want to run the code on the web, you could use Google Colab, if you want to run your code locally with your own CPU, it is recommended to install Jupyter Notebook --> in this case I recommend to install Anaconda Navigation first and watch some tutorials on how to set up a Tensorflow environment via Anaconda. This will be super helpful for many other projects. Anaconda also provides a Python interpreter and many other environments and useful features ;) 
+
 
 ```bash
-pip install foobar
+https://docs.anaconda.com/anaconda/install/
+https://www.youtube.com/watch?v=O8yye2AHCOk&t=652s
 ```
 
 ## Data
 
-```python
-import foobar
+You can use the prepared data i uploaded here in the same folder as the Code. There you also find the test and evaluation data that was extraced from the dataset. 
 
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```python
 ```
 
 ## Contributing
