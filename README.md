@@ -14,13 +14,18 @@ https://www.youtube.com/watch?v=O8yye2AHCOk&t=652s
 
 ## Data
 
-You can use the prepared data i uploaded here in the same folder as the Code. There you also find the test and evaluation data that was extraced from the dataset. 
+You can use the prepared data i uploaded in this Repository in the same folder as the Code. There you also find the test.csv and evaluation_ds.csv data that was extraced from the original dataset to make predictions. You could also  look up wine ingredients on the internet and see if you find a new wine with the data features need and then use this wine to feed it in the model. :D 
 
 ```python
 ```
+## TensorFlow Code
+I have uploaded two basically equal models, one is for predicting wine-Type (red- or white-wine) and the other code is for predicting the wine-quality. 
+
+## If you have Question 
+If you have any question rgarding this project you can ask in the comments. I am alsways open to help. :) 
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. 
 
 Please make sure to update tests as appropriate.
 
